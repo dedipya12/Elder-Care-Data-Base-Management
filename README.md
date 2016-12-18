@@ -1,0 +1,2 @@
+# Elder-Care-Data-Base-Management
+The objective of this project is to create a relational database for keeping records of an Elder Care Agency. This relational database provides flexibility to maintain various complex data relationships for Elder Care System. The project is implemented using various features of DBMS like SQL, PL/SQL, Triggers and Stored Procedures to store complex relationships among data.
